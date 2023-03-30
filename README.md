@@ -20,7 +20,7 @@ install the package
 npm i
 ```
 
-.env
+create new .env file and set the API and private key
 ```shell
 API_URL = "https://eth-sepolia.g.alchemy.com/v2/<API_KEY>"
 PRIVATE_KEY = "<Metamask wallet Private key>"
