@@ -31,5 +31,5 @@ npx hardhat run scripts/deploy.js --network sepolia
 ```
 Expect output:
 ```html
-Contract deployed to address: 0x12356789abcdef
+Contract deployed to address: 0x12356789abcdef....
 ```
