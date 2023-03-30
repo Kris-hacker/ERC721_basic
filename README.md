@@ -11,3 +11,8 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+.env
+```shell
+API_URL = "https://eth-sepolia.g.alchemy.com/v2/<API_KEY>"
+PRIVATE_KEY = "<Metamask wallet Private key>"
+```
