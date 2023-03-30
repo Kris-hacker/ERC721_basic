@@ -15,6 +15,10 @@ Check the node.js version (please use new version)
 node -v
 ```
 
+install the package
+```shell
+npm i
+```
 
 .env
 ```shell
