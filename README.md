@@ -10,7 +10,7 @@ npx hardhat help
 ```
 
 
-Check the node.js version
+Check the node.js version (please use new version)
 ```shell
 node -v
 ```
