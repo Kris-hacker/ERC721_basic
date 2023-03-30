@@ -20,3 +20,7 @@ Compile project
 ```shell
 npx hardhat compile
 ```
+Deploy the basic ERC721 contract
+```shell
+npx hardhat run deployments/deploy.js --network sepolia
+```
