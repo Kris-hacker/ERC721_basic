@@ -16,3 +16,7 @@ npx hardhat run scripts/deploy.js
 API_URL = "https://eth-sepolia.g.alchemy.com/v2/<API_KEY>"
 PRIVATE_KEY = "<Metamask wallet Private key>"
 ```
+Compile project
+```shell
+npx hardhat compile
+```
