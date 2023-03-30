@@ -27,5 +27,5 @@ npx hardhat compile
 ```
 Deploy the basic ERC721 contract
 ```shell
-npx hardhat run deployments/deploy.js --network sepolia
+npx hardhat run scripts/deploy.js --network sepolia
 ```
