@@ -4,15 +4,18 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 Try running some of the following tasks:
 
+Helping
+```shell
+npx hardhat help
+```
+
+
 Check the node.js version
 ```shell
 node -v
 ```
 
-Helping
-```shell
-npx hardhat help
-```
+
 .env
 ```shell
 API_URL = "https://eth-sepolia.g.alchemy.com/v2/<API_KEY>"
