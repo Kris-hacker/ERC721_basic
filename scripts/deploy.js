@@ -1,7 +1,7 @@
 async function main() {
   // Grab the contract factory 
-  const MyNFT = await ethers.getContractFactory("MyNFT");
-  const argramNFT = await MyNFT.deploy();
+  const LearnFi = await ethers.getContractFactory("LearnFi");
+  const argramNFT = await LearnFi.deploy();
 
   // Start deployment, returning a promise that resolves to a contract object
   const txHash = argramNFT.deployTransaction.hash;
