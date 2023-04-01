@@ -22,7 +22,7 @@ npm i
 
 create new .env file and set the API and private key
 ```shell
-API_URL = "https://eth-sepolia.g.alchemy.com/v2/<API_KEY>"
+API_URL = "https://eth-goerli.g.alchemy.com/v2/<API_KEY>"
 PRIVATE_KEY = "<Metamask wallet Private key>"
 ```
 Compile project
